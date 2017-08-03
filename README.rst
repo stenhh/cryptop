@@ -2,6 +2,8 @@ cryptop (EUR Version)
 =======
 cryptop is a lightweight command line based cryptocurrency portfolio.
 Built on Python 3 and ncurses with simplicity in mind, cryptop updates in realtime.
+This version is just modified to display the EUR price instead of the USD price without having to change the config files.
+
 
 .. image:: img\cryptop.png
 
@@ -34,20 +36,6 @@ Start from a terminal.
     cryptop
 
 Follow the on screen instructions to add/remove cryptocurrencies from your portfolio.
-
-Customisation
--------------
-
-Cryptop creates two config files in a .cryptop folder in your home directory.
-
-.crypto/config.ini contains theme configuration (text/background colors) and
-options to change the output currency (default USD) and update frequency.
-
-.. image:: img\fall.png
-
-.. image:: img\aesth.png
-
-.cryptop/wallet.json contains the coins and amounts you hold, you shouldn't need to edit it manually
 
 Credits
 -------
