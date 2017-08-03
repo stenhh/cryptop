@@ -44,7 +44,7 @@ def if_coin(coin, url='https://www.cryptocompare.com/api/data/coinlist/'):
 
 def get_price(coin, curr=None):
     '''Get the data on coins'''
-    curr = curr or CONFIG['api'].get('currency', 'USD')
+    curr = curr or CONFIG['api'].get('currency', 'EUR')
     fmt = 'https://min-api.cryptocompare.com/data/pricemultifull?fsyms={}&tsyms={}'
 
     try:
