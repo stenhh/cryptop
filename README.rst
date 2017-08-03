@@ -1,4 +1,4 @@
-cryptop
+cryptop (EUR Version)
 =======
 cryptop is a lightweight command line based cryptocurrency portfolio.
 Built on Python 3 and ncurses with simplicity in mind, cryptop updates in realtime.
