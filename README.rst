@@ -60,11 +60,14 @@ Credits
 
 Uses the `cryptocompare.com API
 <http://www.cryptocompare.com/>`_.
+huwwp on Github for the original
 
 Tipjar
 ------
 
-BTC: 15wNW29q7XAEbC8yus49CWvt91JkhcdkoW
+BTC:17mFXLMo9cknDZLbHyudAX3gV4fYQR8Fgm 
+ETH:0x39Fce5e17efe43f7CEd5C99300417e3217e09aDa
+
 
 Disclaimer
 ----------
