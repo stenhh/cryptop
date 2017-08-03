@@ -10,25 +10,19 @@ Installation
 
 cryptop requires Python 3 to run, and has only tested in Python 3.6 so far.
 
-The easiest way to install cryptop is through pip
+The easiest way to install cryptop (EUR Version) is through git
 
 .. code:: bash
 
-    sudo pip install cryptop
+    git clone git://github.com/stenhh/cryptop
     
-You may need to force pip3 depending on your python install
-
-.. code:: bash
-
-    sudo pip3 install cryptop
-
-cryptop can be installed manually, download the repo and run
+download the repo and run
 
 .. code:: bash
 
     sudo python setup.py install
 
-pip and setup.py can be run with a --user flag if you would prefer not to sudo. Both require setuptools which is included in most python installs and many distros by default
+setup.py can be run with a --user flag if you would prefer not to sudo. It requires setuptools which is included in most python installs and many distros by default
 
 Usage
 -----
@@ -61,14 +55,6 @@ Credits
 Uses the `cryptocompare.com API
 <http://www.cryptocompare.com/>`_.
 huwwp on Github for the original
-
-Tipjar
-------
-
-BTC:17mFXLMo9cknDZLbHyudAX3gV4fYQR8Fgm
-
-ETH:0x39Fce5e17efe43f7CEd5C99300417e3217e09aDa
-
 
 Disclaimer
 ----------
