@@ -65,7 +65,8 @@ huwwp on Github for the original
 Tipjar
 ------
 
-BTC:17mFXLMo9cknDZLbHyudAX3gV4fYQR8Fgm 
+BTC:17mFXLMo9cknDZLbHyudAX3gV4fYQR8Fgm
+
 ETH:0x39Fce5e17efe43f7CEd5C99300417e3217e09aDa
 
 
