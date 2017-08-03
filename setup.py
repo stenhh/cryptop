@@ -13,7 +13,7 @@ setup(
     long_description=readme,
     author='huwwp',
     author_email='hpigott@gmail.com',
-    url='https://github.com/huwwp/cryptop',
+    url='https://github.com/stenhh/cryptop/',
     license='MIT',
     keywords='crypto cli portfolio curses cryptocurrency bitcoin',
     classifiers = [
